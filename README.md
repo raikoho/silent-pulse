@@ -9,5 +9,7 @@ Work algorithm and custom settings:
     1) screenshot of the screen - every 15 seconds;
     2) webcam screenshot - every 1 minute;
     3) launch any additional program - in this case - a keylogger. You can add your own program or use my keylogger on GitHub.
+       if you will use my Keylogger - be sure that its named as keylogger.py and stored exactly in the main directory.
+       
 - If you press the keys "alt + space" at the same time, the program completely suspends its work and tracking algorithms.
 - All data will be saved in the "own" folder, which is located in the directory with the script.
