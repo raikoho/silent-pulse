@@ -1,5 +1,5 @@
 <p align=”center”>
-<img width=”200" height=”200" src=”https://github.com/raikoho/silent-pulse/assets/46958633/60bb6cfb-e834-4d6c-83c8-3df7e6a134bb" alt=”my banner”>
+<img width=”200" height=”200" src=”[https://github.com/raikoho/silent-pulse/assets/46958633/60bb6cfb-e834-4d6c-83c8-3df7e6a134bb](https://github.com/raikoho/silent-pulse/assets/46958633/ffc3e71e-776f-43de-a8fd-f7d92bc3c5f4)" alt=”my banner”>
 </p>
 
 Silent Pulse - it is an optimized python script that aims to help real computer users detect any unwanted third-party activity on that computer.
