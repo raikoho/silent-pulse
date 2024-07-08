@@ -39,6 +39,9 @@ This means that you will find out who, why and what was doing on your computer d
 git clone https://github.com/raikoho/silent-pulse.git
 cd silent-pulse
 ./silent-pulse.py
+or
+python silent-pulse.py
+
 ```
 
 ## 🧩 Dependencies
