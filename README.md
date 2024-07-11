@@ -38,6 +38,7 @@ This means that you will find out who, why and what was doing on your computer d
 ```bash
 git clone https://github.com/raikoho/silent-pulse.git
 cd silent-pulse
+pip install -r requirements.txt
 python silent-pulse.py
 ```
 
